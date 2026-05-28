@@ -1,2 +1,49 @@
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-research-orange)
+![Astronomy](https://img.shields.io/badge/domain-archaeoastronomy-purple)
+
+
 # AstroGeoStats
-Computational archaeoastronomy toolkit for analyzing astronomical correlations between ancient structures and celestial configurations using geometry, simulations, and statistical modeling.
+AstroGeoStats is an open-source computational framework designed for archaeoastronomical research.
+
+The project combines:
+- astronomical simulations,
+- spatial geometry,
+- statistical inference,
+- Monte Carlo analysis,
+- and historical sky reconstruction
+
+to evaluate potential correlations between ancient monuments and celestial patterns.
+
+The framework aims to provide reproducible and scientifically grounded methodologies for studying possible astronomical alignments in ancient architecture.
+
+
+AstroGeoStats/
+│
+├── data/
+│   ├── giza_coordinates/
+│   ├── astronomical_catalogs/
+│   └── simulations/
+│
+├── notebooks/
+│   ├── sky_reconstruction.ipynb
+│   ├── monte_carlo_analysis.ipynb
+│   └── geometry_alignment.ipynb
+│
+├── src/
+│   ├── astronomy/
+│   ├── geometry/
+│   ├── statistics/
+│   └── visualization/
+│
+├── results/
+│
+├── docs/
+│
+├── tests/
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── .gitignore
