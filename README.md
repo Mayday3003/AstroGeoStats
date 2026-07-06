@@ -18,32 +18,3 @@ to evaluate potential correlations between ancient monuments and celestial patte
 
 The framework aims to provide reproducible and scientifically grounded methodologies for studying possible astronomical alignments in ancient architecture.
 
-
-AstroGeoStats/
-│
-├── data/
-│   ├── giza_coordinates/
-│   ├── astronomical_catalogs/
-│   └── simulations/
-│
-├── notebooks/
-│   ├── sky_reconstruction.ipynb
-│   ├── monte_carlo_analysis.ipynb
-│   └── geometry_alignment.ipynb
-│
-├── src/
-│   ├── astronomy/
-│   ├── geometry/
-│   ├── statistics/
-│   └── visualization/
-│
-├── results/
-│
-├── docs/
-│
-├── tests/
-│
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
